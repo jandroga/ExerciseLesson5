@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExerciseLesson5</string>
+    <string name="aix_s_un_imageview">Clicka la imatge per tornar al menú</string>
+    <string name="explicacio">Al final no funcionava perquè estava canviant l\'orientació del layout en lloc de la del RadioGroup</string>
+</resources>
